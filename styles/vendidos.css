@@ -1,0 +1,36 @@
+.vendidos__titulo{
+    color: var(--laranja);
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0;
+}
+.card1__descricao{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+.card1{
+    background:var(--branco);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin: 1em;
+    padding: 1em;
+}
+.descricao1__titulo{
+    color: var(--laranja);
+    font-weight: 700px;
+    margin-top: 0.5em;
+}
+.descricao1__titulo-livro1{
+    color: var(--azul);
+    font-size: 15px;
+    font-weight: 700;
+margin: 0.5em 0;
+}
+.descricao1__texto{
+    font-size: 14px;
+}
+ 
